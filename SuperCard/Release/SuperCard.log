@@ -1,0 +1,95 @@
+﻿  First.c
+C:\Users\0\Desktop\SuperCard\First.c(38,14): warning C4013: “codeFunction”未定义；假设外部返回 int
+C:\Users\0\Desktop\SuperCard\First.c(52,26): warning C4013: “searchFunction”未定义；假设外部返回 int
+C:\Users\0\Desktop\SuperCard\First.c(54,24): warning C4013: “sortFunction”未定义；假设外部返回 int
+C:\Users\0\Desktop\SuperCard\First.c(56,30): warning C4013: “statisticsFunction”未定义；假设外部返回 int
+C:\Users\0\Desktop\SuperCard\First.c(58,25): warning C4013: “putInFunction”未定义；假设外部返回 int
+C:\Users\0\Desktop\SuperCard\First.c(60,27): warning C4013: “delecteFunction”未定义；假设外部返回 int
+C:\Users\0\Desktop\SuperCard\First.c(44,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+C:\Users\0\Desktop\SuperCard\First.c(68,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+C:\Users\0\Desktop\SuperCard\First.c(87,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+C:\Users\0\Desktop\SuperCard\First.c(104,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\0\Desktop\SuperCard\First.c(118,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\0\Desktop\SuperCard\First.c(132,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\0\Desktop\SuperCard\First.c(144,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\0\Desktop\SuperCard\First.c(161,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+C:\Users\0\Desktop\SuperCard\First.c(164,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+C:\Users\0\Desktop\SuperCard\First.c(183,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+C:\Users\0\Desktop\SuperCard\First.c(209,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+C:\Users\0\Desktop\SuperCard\First.c(214,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+C:\Users\0\Desktop\SuperCard\First.c(226,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+C:\Users\0\Desktop\SuperCard\First.c(245,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\0\Desktop\SuperCard\First.c(256,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+C:\Users\0\Desktop\SuperCard\First.c(259,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+C:\Users\0\Desktop\SuperCard\First.c(272,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+C:\Users\0\Desktop\SuperCard\First.c(289,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+C:\Users\0\Desktop\SuperCard\First.c(294,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+C:\Users\0\Desktop\SuperCard\First.c(306,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+C:\Users\0\Desktop\SuperCard\First.c(315,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\0\Desktop\SuperCard\First.c(322,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+C:\Users\0\Desktop\SuperCard\First.c(327,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+C:\Users\0\Desktop\SuperCard\First.c(349,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\0\Desktop\SuperCard\First.c(356,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+  主界面.c
+  删除.c
+  删除s.c
+C:\Users\0\Desktop\SuperCard\删除s.c(12,9): warning C4013: “printf”未定义；假设外部返回 int
+  录入.c
+  排序.c
+  条件搜索.c
+  多组插入.c
+  按学号搜索.c
+  排序s.c
+  文件加载.c
+C:\Users\0\Desktop\SuperCard\文件加载.c(27,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+  文件测试1.c
+  查询.c
+  统计.c
+  输入.c
+C:\Users\0\Desktop\SuperCard\输入.c(19,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\0\Desktop\SuperCard\输入.c(41,1): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(496): message : 参见“gmtime”的声明
+  输出.c
+C:\Users\0\Desktop\SuperCard\输出.c(7,8): warning C4013: “printf”未定义；假设外部返回 int
+  链表储存.c
+C:\Users\0\Desktop\SuperCard\链表储存.c(16,17): warning C4047: “!=”:“errno_t”与“void *”的间接级别不同
+  链表插入.c
+  链表生成.c
+C:\Users\0\Desktop\SuperCard\链表生成.c(17,8): warning C4013: “srand”未定义；假设外部返回 int
+C:\Users\0\Desktop\SuperCard\链表生成.c(18,15): warning C4013: “rand”未定义；假设外部返回 int
+  预处理定义.c
+  正在生成代码
+C:\Users\0\Desktop\SuperCard\排序s.c(40): warning C4716: “sort”: 必须返回一个值
+C:\Users\0\Desktop\SuperCard\链表储存.c(29): warning C4715: “store”: 不是所有的控件路径都返回值
+  45 of 47 functions (95.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  SuperCard.vcxproj -> C:\Users\0\Desktop\SuperCard\Release\SuperCard.exe
