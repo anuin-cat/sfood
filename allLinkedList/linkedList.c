@@ -257,13 +257,14 @@ LNode* ReverseEvenList(LinkedList* L) {
  *  @notice      : choose to finish
  */
 LNode* FindMidNode(LinkedList* L) {
-    if (L == NULL || (*L) == NULL || (*L)->next != NULL) {
+    if (L == NULL || (*L) == NULL || (*L)->next == NULL) {
         return *L;
     }
 
     LinkedList slow,fast;
 
-    slow = fast = (*L)->next;
+    slow = (*L)->next;
+    fast = (*L)->next;
 
     while (fast != NULL && fast->next != NULL) {
         slow = slow->next;
