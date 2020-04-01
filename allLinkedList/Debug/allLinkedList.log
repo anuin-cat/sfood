@@ -1,0 +1,7 @@
+﻿  duLinkedList.c
+E:\软件数据\项目\allLinkedList\duLinkedList.c(161,20): warning C4047: “函数”:“ElemType”与“DuLinkedList”的间接级别不同
+E:\软件数据\项目\allLinkedList\duLinkedList.c(161,20): warning C4024: “visit”: 形参和实参 1 的类型不同
+  main.c
+E:\软件数据\项目\allLinkedList\main.c(23,21): warning C4013: “getch”未定义；假设外部返回 int
+  正在生成代码...
+  allLinkedList.vcxproj -> E:\软件数据\项目\allLinkedList\Debug\allLinkedList.exe
