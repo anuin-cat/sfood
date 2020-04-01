@@ -111,7 +111,7 @@ Status DeleteList(LNode* p, ElemType* e) {
  *	@return		 : None
  *  @notice      : None
  */
-void TraverseList(LinkedList L, void (*visit)(ElemType e)) {
+void TraverseList(LinkedList L, void (*visit)(LinkedList e)) {
     if (L == NULL||L->next==NULL) {
         return;
     }

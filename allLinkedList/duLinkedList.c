@@ -149,7 +149,7 @@ Status DeleteList_DuL(DuLNode* p, ElemType* e) {
  *	@return		 : Status
  *  @notice      : None
  */
-void TraverseList_DuL(DuLinkedList L, void (*visit)(ElemType e)) {
+void TraverseList_DuL(DuLinkedList L, void (*visit)(DuLinkedList e)) {
     if (L == NULL || L->next == NULL) {
         return;
     }

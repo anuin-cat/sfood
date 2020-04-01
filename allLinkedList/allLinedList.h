@@ -76,7 +76,7 @@ Status DeleteList_DuL(DuLNode* p, ElemType* e);
  *	@return		 : Status
  *  @notice      : None
  */
-void TraverseList_DuL(DuLinkedList L, void (*visit)(ElemType e));
+void TraverseList_DuL(DuLinkedList L, void (*visit)(DuLinkedList e));
 
 
 
@@ -130,7 +130,7 @@ Status DeleteList(LNode* p, ElemType* e);
  *	@return		 : None
  *  @notice      : None
  */
-void TraverseList(LinkedList L, void (*visit)(ElemType e));
+void TraverseList(LinkedList L, void (*visit)(LinkedList e));
 
 /**
  *  @name        : Status SearchList(LinkedList L, ElemType e)

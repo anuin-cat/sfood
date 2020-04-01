@@ -90,7 +90,7 @@ Status DeleteList(LNode* p, ElemType* e);
  *	@return		 : None
  *  @notice      : None
  */
-void TraverseList(LinkedList L, void (*visit)(ElemType e));
+void TraverseList(LinkedList L, void (*visit)(LinkedList e));
 
 /**
  *  @name        : Status SearchList(LinkedList L, ElemType e)

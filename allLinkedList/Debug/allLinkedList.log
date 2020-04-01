@@ -1,7 +1,32 @@
-﻿  duLinkedList.c
-E:\软件数据\项目\allLinkedList\duLinkedList.c(161,20): warning C4047: “函数”:“ElemType”与“DuLinkedList”的间接级别不同
-E:\软件数据\项目\allLinkedList\duLinkedList.c(161,20): warning C4024: “visit”: 形参和实参 1 的类型不同
+﻿  aDuView.c
+E:\软件数据\项目\allLinkedList\aDuView.c(32,32): warning C4028: 形参 1 与声明不同
+E:\软件数据\项目\allLinkedList\aDuView.c(40,17): warning C4013: “getch”未定义；假设外部返回 int
+E:\软件数据\项目\allLinkedList\aDuView.c(71,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\软件数据\项目\allLinkedList\aDuView.c(103,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\软件数据\项目\allLinkedList\aDuView.c(34,6): warning C4101: “position”: 未引用的局部变量
+  aView.c
+E:\软件数据\项目\allLinkedList\aView.c(37,17): warning C4013: “getch”未定义；假设外部返回 int
+E:\软件数据\项目\allLinkedList\aView.c(69,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\软件数据\项目\allLinkedList\aView.c(31,6): warning C4101: “position”: 未引用的局部变量
+  dDuView.c
+E:\软件数据\项目\allLinkedList\dDuView.c(30,32): warning C4028: 形参 1 与声明不同
+E:\软件数据\项目\allLinkedList\dDuView.c(38,17): warning C4013: “getch”未定义；假设外部返回 int
+E:\软件数据\项目\allLinkedList\dDuView.c(32,6): warning C4101: “position”: 未引用的局部变量
+  dView.c
+E:\软件数据\项目\allLinkedList\dView.c(37,17): warning C4013: “getch”未定义；假设外部返回 int
+E:\软件数据\项目\allLinkedList\dView.c(31,6): warning C4101: “position”: 未引用的局部变量
+  duLinkedList.c
+  linkedList.c
+E:\软件数据\项目\allLinkedList\linkedList.c(99,26): warning C4047: “=”:“ElemType *”与“ElemType”的间接级别不同
   main.c
 E:\软件数据\项目\allLinkedList\main.c(23,21): warning C4013: “getch”未定义；假设外部返回 int
+  tDuView.c
+E:\软件数据\项目\allLinkedList\tDuView.c(29,32): warning C4028: 形参 1 与声明不同
+E:\软件数据\项目\allLinkedList\tDuView.c(37,17): warning C4013: “getch”未定义；假设外部返回 int
+E:\软件数据\项目\allLinkedList\tDuView.c(31,6): warning C4101: “position”: 未引用的局部变量
+  tView.c
+E:\软件数据\项目\allLinkedList\tView.c(40,17): warning C4013: “getch”未定义；假设外部返回 int
+E:\软件数据\项目\allLinkedList\tView.c(56,28): warning C4474: scanf_s: 格式字符串中传递的参数太多
+E:\软件数据\项目\allLinkedList\tView.c(56,28): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
   正在生成代码...
   allLinkedList.vcxproj -> E:\软件数据\项目\allLinkedList\Debug\allLinkedList.exe
