@@ -56,6 +56,12 @@ void aFunction(LinkedList *L) {
 		}
 			//插入结点
 		case '2': {
+
+			if (L == NULL || (*L) == NULL) {
+				printf("链表为空，功能禁用！！！\n");
+				break;
+			}
+
 			int A;
 			char s[20];
 			if (L == NULL || (*L) == NULL) {

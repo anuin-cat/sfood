@@ -27,6 +27,16 @@ void dView() {
 }
 
 void dFunction(LinkedList* L) {
+
+
+	if (L == NULL || (*L) == NULL) {
+		printf("链表未创建，功能禁用！！！\n");
+		printf("按任意键返回。。。\n");
+		getch();
+		return;
+	}
+
+
 	char choice;
 	int position;
 
@@ -57,7 +67,7 @@ void dFunction(LinkedList* L) {
 			}
 			else
 			{
-				printf("删除失败\n");
+				printf("删除失败,链表不存在可删除的结点！！！\n");
 			}
 			break;
 		}

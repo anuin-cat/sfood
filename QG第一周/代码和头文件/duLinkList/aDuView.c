@@ -58,10 +58,16 @@ void aDuFunction(DuLinkedList* L) {
 		}
 			//插入结点前
 		case '2': {
+
 			int A;
 			char s[20];
 			if (L == NULL || (*L) == NULL) {
-				printf("头节点未创建!\n");
+				printf("链表未创建，功能禁用！！！\n");
+				break;
+			}
+			else if((*L)->next==NULL)
+			{
+				printf("没有数据节点，无法前插！！！\n");
 				break;
 			}
 			else
@@ -93,7 +99,7 @@ void aDuFunction(DuLinkedList* L) {
 			int A;
 			char s[20];
 			if (L == NULL || (*L) == NULL) {
-				printf("头节点未创建!\n");
+				printf("链表未创建，功能禁用！！！\n");
 				break;
 			}
 			else

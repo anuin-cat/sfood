@@ -78,6 +78,7 @@ int main() {
 
 				system("cls");
 			}
+			DestroyList_DuL(L);
 			break;
 		}
 		default:

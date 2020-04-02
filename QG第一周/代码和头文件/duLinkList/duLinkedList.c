@@ -38,6 +38,7 @@ Status InitList_DuL(DuLinkedList* L) {
 void DestroyList_DuL(DuLinkedList* L) {
     
     if (L == NULL || (*L) == NULL) {
+        printf("已经为空，无法摧毁！！！\n");
         return;
     }
     else
@@ -56,6 +57,7 @@ void DestroyList_DuL(DuLinkedList* L) {
             }
         }
         *L = NULL;
+        printf("摧毁成功！！！\n");
     }
 };
 
@@ -151,6 +153,7 @@ Status DeleteList_DuL(DuLNode* p, ElemType* e) {
  */
 void TraverseList_DuL(DuLinkedList L, void (*visit)(DuLinkedList e)) {
     if (L == NULL || L->next == NULL) {
+        printf("链表中无数据节点！！！\n");
         return;
     }
     else

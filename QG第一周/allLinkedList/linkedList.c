@@ -96,7 +96,7 @@ Status DeleteList(LNode* p, ElemType* e) {
     else
     {
         LinkedList q = p->next->next;
-        e = p->next->data;
+        *e = p->next->data;
         free(p->next);
         p->next = q;
         return SUCCESS;
@@ -113,6 +113,7 @@ Status DeleteList(LNode* p, ElemType* e) {
  */
 void TraverseList(LinkedList L, void (*visit)(LinkedList e)) {
     if (L == NULL||L->next==NULL) {
+        printf("链表无数值结点！！！\n");
         return;
     }
     else
@@ -229,7 +230,6 @@ LNode* ReverseEvenList(LinkedList* L) {
     {
         LinkedList pre = *L, now = (*L)->next,back;
         
-        L = &now;
 
         while (now!=NULL && now->next!=NULL) {
             back = now->next;
@@ -266,7 +266,7 @@ LNode* FindMidNode(LinkedList* L) {
     slow = (*L)->next;
     fast = (*L)->next;
 
-    while (fast != NULL && fast->next != NULL) {
+    while (fast != NULL && fast->next != NULL && fast->next->next != NULL) {
         slow = slow->next;
         fast = fast->next->next;
     }

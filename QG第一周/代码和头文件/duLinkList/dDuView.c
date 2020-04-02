@@ -28,6 +28,15 @@ void dDuView() {
 
 
 void dDuFunction(DuLinkedList* L) {
+
+	if (L == NULL || (*L) == NULL) {
+		printf("链表未创建，功能禁用！！！\n");
+		printf("按任意键返回。。。\n");
+		getch();
+		return;
+	}
+
+
 	char choice;
 	int position;
 
@@ -45,7 +54,7 @@ void dDuFunction(DuLinkedList* L) {
 		{
 			//摧毁链表
 		case '1': {
-			TraverseList_DuL(*L, duPri);
+			DestroyList_DuL(L);
 			break;
 		}
 			//删除结点
@@ -57,7 +66,7 @@ void dDuFunction(DuLinkedList* L) {
 			}
 			else
 			{
-				printf("删除失败\n");
+				printf("删除失败,不存在数据节点,或链表为空！！！\n");
 			}
 			break;
 		}

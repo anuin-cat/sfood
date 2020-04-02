@@ -27,6 +27,15 @@ void tDuView() {
 }
 
 void tDuFunction(DuLinkedList* L) {
+
+	if (L == NULL || (*L) == NULL) {
+		printf("链表未创建，功能禁用！！！\n");
+		printf("按任意键返回。。。\n");
+		getch();
+		return;
+	}
+
+
 	char choice;
 	int position;
 
