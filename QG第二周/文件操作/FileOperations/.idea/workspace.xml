@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37b3231c-6965-42eb-8c31-2a519cf0c03e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a9vlzpCQ4x8Ev1kmzPuUrWwmOA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/src/com/anuin/dao/connector" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="src.com.anuin.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\编软\编程相关\项目\FileOperations\src\src\com\anuin\dao\connector" />
+      <recent name="G:\编软\编程相关\项目\FileOperations\libs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.anuin.library.view.Main" />
+      <module name="library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.anuin.library.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.anuin.library.test.Test" />
+      <module name="library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.anuin.library.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dataBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.anuin.service.dataBase" />
+      <module name="FileOperations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.anuin.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.anuin.view.main" />
+      <module name="FileOperations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.anuin.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.anuin.service.main" />
+      <module name="FileOperations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.anuin.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.dataBase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37b3231c-6965-42eb-8c31-2a519cf0c03e" name="Default Changelist" comment="" />
+      <created>1586160778836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586160778836</updated>
+      <workItem from="1586160781643" duration="78514000" />
+      <workItem from="1586393686513" duration="3076000" />
+      <workItem from="1586408566077" duration="18158000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="293" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1586349276719">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="293" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586349276719" />
+    <state x="449" y="333" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586223579381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="333" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1586223579381" />
+    <state x="424" y="123" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1586349136798">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="424" y="123" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1536.824@0.0.1536.824" timestamp="1586349136798" />
+    <state x="581" y="103" key="FileChooserDialogImpl" timestamp="1586161980749">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="581" y="103" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586161980749" />
+    <state width="958" height="22" key="GridCell.Tab.0.bottom" timestamp="1586428898140">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="958" height="22" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586428898140" />
+    <state width="958" height="22" key="GridCell.Tab.0.center" timestamp="1586428898138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="958" height="22" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586428898138" />
+    <state width="958" height="22" key="GridCell.Tab.0.left" timestamp="1586428898136">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="958" height="22" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586428898136" />
+    <state width="958" height="22" key="GridCell.Tab.0.right" timestamp="1586428898139">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="958" height="22" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586428898139" />
+    <state x="440" y="110" width="755" height="603" key="NewModule_or_Project.wizard" timestamp="1586161990753">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="440" y="110" width="755" height="603" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1586161990753" />
+    <state x="263" y="53" width="1038" height="732" key="SettingsEditor" timestamp="1586161992827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="263" y="53" width="1038" height="732" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586161992827" />
+    <state x="424" y="112" width="666" height="602" key="dock-window-1" timestamp="1586240141502">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="424" y="112" width="666" height="602" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1586240141502" />
+    <state x="209" y="221" width="666" height="540" key="dock-window-2" timestamp="1586240090115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="221" width="666" height="540" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1586240090115" />
+    <state x="372" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1586268234184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="0" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1586268234184" />
+    <state x="378" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586326994232">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="378" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586326994232" />
+  </component>
+</project>
